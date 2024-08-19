@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohitthakur2360
-- 👀 I’m interested in learning new language , developing games and i am interested in learning new things 
-- 🌱 I’m currently learning python language 
+- 👀 I’m interested in learning new language , developing games 
+- 🌱 I’m currently learning python language ,c++ 
 - 💞️ I’m looking to collaborate to learn 
 - 📫 How to reach me ...My email is mt7646616@gmail.com
 - 😄 Pronouns: ...he/him
